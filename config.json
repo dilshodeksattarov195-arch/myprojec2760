@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authralidate",
+        "uuid": 15108240,
+        "checksum": "0ofmkj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
